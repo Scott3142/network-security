@@ -1,26 +1,26 @@
 {
   "environment": "web",
-  "source": "1W-Ayc-XEngJ8ikZyij8Zub84viV0A1FWNa8NPFJ7UC4",
+  "source": "1-GPomwpsSVAanw3oAfjSzd6RVGQpuE6HCnJ8_5TusW8",
   "format": "html",
   "prefix": "../../",
   "mainga": "UA-49880327-14",
-  "updated": "2019-11-10T17:26:00Z",
-  "id": "sound-of-the-bees",
-  "duration": 44,
-  "title": "Sound of the Bees",
+  "updated": "2019-11-30T22:10:49Z",
+  "id": "network-security",
+  "duration": 24,
+  "title": "Fundamentals of Network Security",
   "author": "Scott Morgan",
-  "summary": "During this project, you will create a bee-hive monitoring system using a Raspberry Pi, a camera and a microphone.",
-  "theme": "python",
+  "summary": "This tutorial will guide you through the Fundamentals of Network Security class delivered at Bridgend College on 2nd December 2019.",
+  "theme": "networks",
   "status": [
     "published"
   ],
   "category": [
-    "Python"
+    "networks"
   ],
   "tags": [
-    "web"
+    "rpi"
   ],
-  "feedback": "https://github.com/Scott3142/sound-of-the-bees",
+  "feedback": "https://github.com/Scott3142/network-security",
   "ga": "UA-214872164-1",
-  "url": "sound-of-the-bees"
+  "url": "network-security"
 }
